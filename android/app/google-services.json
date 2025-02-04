@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654682130983",
+    "project_id": "rabbit-8cace",
+    "storage_bucket": "rabbit-8cace.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654682130983:android:2e2e8ef44ed299715d5c02",
+        "android_client_info": {
+          "package_name": "com.rabbit.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGCW14n4C1_JVhu8vhjw70VlxVIcF24M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
